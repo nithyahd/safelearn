@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "fire-disaster",
+      "description": "Fire disaster education illustration",
+      "imageUrl": "https://picsum.photos/seed/fire1/800/600",
+      "imageHint": "fire disaster"
+    },
+    {
+      "id": "flood-disaster",
+      "description": "Flood disaster education illustration",
+      "imageUrl": "https://picsum.photos/seed/flood1/800/600",
+      "imageHint": "flood disaster"
+    },
+    {
+      "id": "earthquake-disaster",
+      "description": "Earthquake disaster education illustration",
+      "imageUrl": "https://picsum.photos/seed/quake1/800/600",
+      "imageHint": "earthquake disaster"
+    },
+    {
+      "id": "avatar-user",
+      "description": "User profile avatar placeholder",
+      "imageUrl": "https://picsum.photos/seed/user1/200/200",
+      "imageHint": "user avatar"
+    }
+  ]
+}
